@@ -1,6 +1,7 @@
 # Note
 This is my first program in Node
 
+```
 Options:
       --help     Show help                 [boolean]
       --version  Show version number       [boolean]
@@ -10,3 +11,4 @@ Options:
                           [boolean] [default: false]
   -h, --hasta    Indicador del alcance del
                  Multiplicador[number] [default: 10]
+```
